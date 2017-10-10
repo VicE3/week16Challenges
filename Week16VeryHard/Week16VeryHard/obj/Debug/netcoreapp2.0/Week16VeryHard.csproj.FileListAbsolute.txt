@@ -1,0 +1,11 @@
+/Users/victoriaecheverria/Projects/Week16VeryHard/Week16VeryHard/obj/Debug/netcoreapp2.0/Week16VeryHard.csprojResolveAssemblyReference.cache
+/Users/victoriaecheverria/Projects/Week16VeryHard/Week16VeryHard/obj/Debug/netcoreapp2.0/Week16VeryHard.csproj.CoreCompileInputs.cache
+/Users/victoriaecheverria/Projects/Week16VeryHard/Week16VeryHard/obj/Debug/netcoreapp2.0/Week16VeryHard.AssemblyInfoInputs.cache
+/Users/victoriaecheverria/Projects/Week16VeryHard/Week16VeryHard/obj/Debug/netcoreapp2.0/Week16VeryHard.AssemblyInfo.cs
+/Users/victoriaecheverria/Projects/Week16VeryHard/Week16VeryHard/bin/Debug/netcoreapp2.0/Week16VeryHard.deps.json
+/Users/victoriaecheverria/Projects/Week16VeryHard/Week16VeryHard/bin/Debug/netcoreapp2.0/Week16VeryHard.runtimeconfig.json
+/Users/victoriaecheverria/Projects/Week16VeryHard/Week16VeryHard/bin/Debug/netcoreapp2.0/Week16VeryHard.runtimeconfig.dev.json
+/Users/victoriaecheverria/Projects/Week16VeryHard/Week16VeryHard/bin/Debug/netcoreapp2.0/Week16VeryHard.dll
+/Users/victoriaecheverria/Projects/Week16VeryHard/Week16VeryHard/bin/Debug/netcoreapp2.0/Week16VeryHard.pdb
+/Users/victoriaecheverria/Projects/Week16VeryHard/Week16VeryHard/obj/Debug/netcoreapp2.0/Week16VeryHard.dll
+/Users/victoriaecheverria/Projects/Week16VeryHard/Week16VeryHard/obj/Debug/netcoreapp2.0/Week16VeryHard.pdb

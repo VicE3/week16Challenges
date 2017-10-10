@@ -1,0 +1,11 @@
+/Users/victoriaecheverria/Projects/Week16Medium/Week16Medium/obj/Debug/netcoreapp2.0/Week16Medium.csprojResolveAssemblyReference.cache
+/Users/victoriaecheverria/Projects/Week16Medium/Week16Medium/obj/Debug/netcoreapp2.0/Week16Medium.csproj.CoreCompileInputs.cache
+/Users/victoriaecheverria/Projects/Week16Medium/Week16Medium/obj/Debug/netcoreapp2.0/Week16Medium.AssemblyInfoInputs.cache
+/Users/victoriaecheverria/Projects/Week16Medium/Week16Medium/obj/Debug/netcoreapp2.0/Week16Medium.AssemblyInfo.cs
+/Users/victoriaecheverria/Projects/Week16Medium/Week16Medium/bin/Debug/netcoreapp2.0/Week16Medium.deps.json
+/Users/victoriaecheverria/Projects/Week16Medium/Week16Medium/bin/Debug/netcoreapp2.0/Week16Medium.runtimeconfig.json
+/Users/victoriaecheverria/Projects/Week16Medium/Week16Medium/bin/Debug/netcoreapp2.0/Week16Medium.runtimeconfig.dev.json
+/Users/victoriaecheverria/Projects/Week16Medium/Week16Medium/bin/Debug/netcoreapp2.0/Week16Medium.dll
+/Users/victoriaecheverria/Projects/Week16Medium/Week16Medium/bin/Debug/netcoreapp2.0/Week16Medium.pdb
+/Users/victoriaecheverria/Projects/Week16Medium/Week16Medium/obj/Debug/netcoreapp2.0/Week16Medium.dll
+/Users/victoriaecheverria/Projects/Week16Medium/Week16Medium/obj/Debug/netcoreapp2.0/Week16Medium.pdb
